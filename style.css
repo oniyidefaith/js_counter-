@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#counter{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    
+}
+
+#first_btn{
+    background-color: tomato;
+    color: #fffaff;
+
+}
+#sec_btn{
+    background-color: aquamarine;
+    color: #fffaff;
+}
+button{
+    font-size: 15pt;
+    padding: 12px;
+    width: 5%;
+    cursor: pointer;
+    border: none;
+}
+#par{
+    margin-top: 15%;
+    text-align: center;
+    font-family: ds-digital;
+    font-size: 50pt;
+}
